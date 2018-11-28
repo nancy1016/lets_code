@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "找出数组中最大的两个数", "找出数组中最大的两个数\找出数组中最大的两个数.vcxproj", "{96A1EDBB-2F8C-4480-9DCB-09441F326ACB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A1EDBB-2F8C-4480-9DCB-09441F326ACB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{96A1EDBB-2F8C-4480-9DCB-09441F326ACB}.Debug|Win32.Build.0 = Debug|Win32
+		{96A1EDBB-2F8C-4480-9DCB-09441F326ACB}.Release|Win32.ActiveCfg = Release|Win32
+		{96A1EDBB-2F8C-4480-9DCB-09441F326ACB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
